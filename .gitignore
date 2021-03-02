@@ -1,0 +1,13 @@
+.DS_Store
+/.buildpath
+/.cache
+/.metadata
+/.project
+/.settings
+/.vscode
+/.idea
+/.gitattributes
+/.php_cs
+/.php_cs.cache
+/vendor/*
+!/vendor/.htaccess
